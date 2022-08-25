@@ -13,7 +13,7 @@
 
 - 📫 Escríbeme a **dcarreraes@gmail.com**
 
-- 📄 Puedes ver mi cv [aquí](aquí)
+- 📄 Puedes ver mi cv [<a href="https://docs.google.com/document/d/1QrXADPFZV2Qd-TFTsbNFAg63C0P6krnnhGBCiHSUOzs/edit?usp=sharing">Aquí</a>]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
