@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcarreraes&label=Profile%20views&color=0e75b6&style=flat" alt="dcarreraes" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **AltaVenta SpA**
-
-- 🌱 Actualmente estoy aprendiendo **ExpressJs, Docker, NextJs**
-
-- 📝 Frecuentemente leo sobre [Tecnologías y ReactJs](Tecnologías y ReactJs)
-
-- 💬 Pregúntame sobre **Python, ReactJs**
-
 - 📫 Escríbeme a **dcarreraes@gmail.com**
-
-- 📄 Puedes ver mi cv [<a href="https://docs.google.com/document/d/1QrXADPFZV2Qd-TFTsbNFAg63C0P6krnnhGBCiHSUOzs/edit?usp=sharing">Aquí</a>]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
