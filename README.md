@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Diego Carrera</h1>
-<h3 align="center">Tech Leader y Desarrollador Full Stack</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcarreraes&label=Profile%20views&color=0e75b6&style=flat" alt="dcarreraes" /> </p>
 
